@@ -16,6 +16,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Serpa_pinto
     - http://en.wikipedia.org/wiki/Alexandre_Alberto_da_Rocha_de_Serpa_Pinto
 description: 'Also available: volume segundo #20783'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20508#Como-eu-atravessei--frica-do-Atlantico-ao-mar-Indico-volume-primeiro
 gutenberg_bookshelf: PT Navegações e Explorações
 gutenberg_issued: '2007-02-02'
 gutenberg_type: Text
