@@ -1,0 +1,40 @@
+_repo: Como-eu-atravessei--frica-do-Atlantico-ao-mar-Indico-volume-primeiro_20508
+_version: 0.1.0
+alternative_title: Como eu atravessei África do Atlântico ao mar Índico, volume primeiro
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinto, Alexandre Alberto da Rocha de Serpa
+    alias: Serpa Pinto, Alexandre Alberto da Rocha de
+    birthdate: 1846
+    deathdate: 1900
+    gutenberg_agent_id: '9346'
+    url: http://www.gutenberg.org/2009/agents/9346
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Serpa_pinto
+    - http://en.wikipedia.org/wiki/Alexandre_Alberto_da_Rocha_de_Serpa_Pinto
+description: 'Also available: volume segundo #20783'
+gutenberg_bookshelf: PT Navegações e Explorações
+gutenberg_issued: '2007-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20508'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Rita Farinha, João Miguel Neves, Carlo Traverso\r\n\
+  and the Online Distributed Proofreading Team at\r\nhttp://www.pgdp.net (This file\
+  \ was produced from images\r\ngenerously made available by the Bibliothèque nationale\r\
+  \nde France (BnF/Gallica) at http://gallica.bnf.fr)"
+publication_note: "Londres:\r\nSampson Low, Marston, Searle, E Rivington,\r\nEditores,\r\
+  \nCrown Buildings, 188 Fleet Street\r\n1881"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Angola -- Description and travel'
+- !lcsh 'South Africa -- Description and travel'
+title: Como eu atravessei Àfrica do Atlantico ao mar Indico, volume primeiro
+url: http://www.gutenberg.org/ebooks/20508
